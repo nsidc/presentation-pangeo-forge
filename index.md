@@ -34,7 +34,7 @@ others.
 ::: {.notes}
 QGreenland-Net dev team met with Pangeo-Forge devs for a discussion about how we
 might collaborate with pangeo-forge.
-:pangeo-forge relateds::
+:::
 
 
 ## Resources
